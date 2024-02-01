@@ -1,0 +1,8 @@
+clientes.dat
+pedidos.dat
+stock.dat
+historico_clientes.dat
+login.txt
+temporal_clientes.dat
+eventos.txt
+usuarios.dat

@@ -1,0 +1,9 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+e:\path\archivos.dat
+e:\path\arch_nuevo.dat
+e:\path\historicos.dat
+e:\path\login.txt
+
