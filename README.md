@@ -2,16 +2,28 @@
 
 Proyecto académico de un sistema de Gestión de Pedidos para un servicio de catering hecho en el Lenguaje de Programación C. Me tocó trabajar con otras 3 personas en donde se me asignó crear el archivo de clientes, aunque luego a lo largo del proyecto, también tuve la oportunidad de ayudar a mis compañeros con el resto de las tareas.
 
+
+
+
+
 ## Ingreso y manejo de usuarios
 
 El programa dispone de 3 tipos de usuarios: el Administrador con todos sus permisos, el operador con la mayoria de los permisos, y el delivery que dispone de pocos permisos.
+
+
+
+
 
 ### Ingreso Administrador
 
 usuario: rconde
 password: admin
 
+
+
 ## Carga de datos
+
+
 
 ### Clientes
 
